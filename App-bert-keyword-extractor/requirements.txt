@@ -1,0 +1,9 @@
+seaborn
+matplotlib
+streamlit == 0.87
+pandas == 1.2.4
+keybert
+flair
+click<8
+python == 3.9.0
+protobuf == 3.19.0
